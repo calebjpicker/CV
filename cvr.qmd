@@ -35,11 +35,13 @@ Research interests: curve fitting; mathematical modeling; advanced signal detect
 | [*Retroactive interference in recognition memory: The effects of mental effort and similarity on recollection and familiarity*](https://digitalscholarship.unlv.edu/thesesdissertations/2495/ "Caleb Picker's Master's Thesis"){#masters .research} |              |
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
 
-|                                                         |              |
-|---------------------------------------------------------|-------------:|
-| BA in Psychology                                        | 2006 to 2010 |
-| *University of Nevada, Las Vegas*                       |              |
-| [Psychology](https://www.unlv.edu/degree/ba-psychology) |              |
++---------------------------------------------------------+--------------:+
+| BA in Psychology                                        | 2006 to 2010  |
++---------------------------------------------------------+---------------+
+| *University of Nevada, Las Vegas*                       |               |
++---------------------------------------------------------+---------------+
+| [Psychology](https://www.unlv.edu/degree/ba-psychology) |               |
++---------------------------------------------------------+---------------+
 
 ## Programming Skills (Years of Experience)
 
@@ -64,47 +66,44 @@ DT::datatable(prg_skills)
 
 ## Professional Development
 
-+----------------------------------------------------------------------------------------------------------------------------+--------:+
-| [Big Data: Exploratory Data Mining in Behavioral Research](https://www.apa.org/science/about/psa/2017/01/big-data-methods) | 2016    |
-+----------------------------------------------------------------------------------------------------------------------------+---------+
-| *Arizona State University*                                                                                                 |         |
-+----------------------------------------------------------------------------------------------------------------------------+---------+
-| For example: Exploratory modeling of longitudinal data (e.g., SEM decision trees), genetic search algorithms               |         |
-+----------------------------------------------------------------------------------------------------------------------------+---------+
-| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                        |         |
-+----------------------------------------------------------------------------------------------------------------------------+---------+
++----------------------------------------------------------------------------------------------------------------------------+---------:+
+| [Big Data: Exploratory Data Mining in Behavioral Research](https://www.apa.org/science/about/psa/2017/01/big-data-methods) | 2016     |
++----------------------------------------------------------------------------------------------------------------------------+----------+
+| *Arizona State University*                                                                                                 |          |
++----------------------------------------------------------------------------------------------------------------------------+----------+
+| For example: Exploratory modeling of longitudinal data (e.g., SEM decision trees), genetic search algorithms               |          |
++----------------------------------------------------------------------------------------------------------------------------+----------+
+| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                        |          |
++----------------------------------------------------------------------------------------------------------------------------+----------+
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+-----:+
-| [Structural Equation Modeling in Longitudinal Research](https://quantdev.ssri.psu.edu/resources/apa-ati-structural-equation-modeling-longitudinal-research) | 2014 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------+
-| *University of California, Davis*                                                                                                                           |      |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------+
-| For example: Latent growth curve models, mixed-effects multi-level modling with multivariate extensions                                                     |      |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------+
-| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                                                         |      |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+--------:+
+| [Structural Equation Modeling in Longitudinal Research](https://quantdev.ssri.psu.edu/resources/apa-ati-structural-equation-modeling-longitudinal-research) | 2014    |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| *University of California, Davis*                                                                                                                           |         |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| For example: Latent growth curve models, mixed-effects multi-level modling with multivariate extensions                                                     |         |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
+| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                                                         |         |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
 
 ## Certifications
 
-+-------------------------------------------------------------------------------------------------------------------------------------+----------:+
-| [Machine Learning (Andrew Ng on Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)                  | 2019      |
-+-------------------------------------------------------------------------------------------------------------------------------------+-----------+
-| [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning) | 2019      |
-+-------------------------------------------------------------------------------------------------------------------------------------+-----------+
++-------------------------------------------------------------------------------------------------------------------------------------+---------:+
+| [Machine Learning (Andrew Ng on Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)                  | 2019     |
++-------------------------------------------------------------------------------------------------------------------------------------+----------+
+| [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning) | 2019     |
++-------------------------------------------------------------------------------------------------------------------------------------+----------+
 
 ## Professional Experience
 
-+-------------------------------------------------------------------------------------+-------------:+
-| [Marketing Analyst](https://www.linkedin.com/jobs/view/177974835/)                  | 2019 to 2021 |
-+-------------------------------------------------------------------------------------+--------------+
-| [*Caesars Entertainment Corporation*](https://www.caesars.com/)                     |              |
-+-------------------------------------------------------------------------------------+--------------+
-| -   Collaborated with senior management to use BigQuery and R programming to        |              |
-|     replace expensive third-party statistical software for intervention evaluations |              |
-| -   Used Python to automate creation of important marketing charts, while advancing |              |
-|     the use of statistical and scientific best practices, such as 95% confidence    |              |
-|     intervals                                                                       |              |
-+-------------------------------------------------------------------------------------+--------------+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------:+
+| [Marketing Analyst](https://www.linkedin.com/jobs/view/177974835/)                                                                                                         | 2019 to 2021 |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
+| [*Caesars Entertainment Corporation*](https://www.caesars.com/)                                                                                                            |              |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
+| -   Collaborated with senior management to use BigQuery and R programming to replace expensive third-party statistical software for intervention evaluations               |              |
+| -   Used Python to automate creation of important marketing charts, while advancing the use of statistical and scientific best practices, such as 95% confidence intervals |              |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
 
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------:+
 | [Pricing Analyst](https://www.linkedin.com/jobs/view/119334473/)                                                                                                                                              | 2018 to 2019 |
@@ -126,9 +125,19 @@ Silver, N. C., Ullman, J., & **Picker, C. J.** (2015). COMPCOR: A computer progr
 
 Barchard, K. A., Doherty, H., **Picker, C.** **J.**, Frazee, J., Williams, D. A., & Lumley, M. A. (April, 2018). [The relation of emotional awareness to fibromyalgia symptoms](https://slideplayer.com/slide/16055548/). Paper presented at the Western Psychological Association Annual Convention, Portland, OR.
 
-Barchard, K. A., Contreras, A., & **Picker, C. J.** (2017, April). [*Sex differences in emotional awareness: More than just words*](https://img.faculty.unlv.edu/lab/conference-presentations/conference%20posters/POES%20IV%20V%20handout.pdf). [Poster](https://img.faculty.unlv.edu/lab/conference-presentations/conference%20posters/POES%20IV%20V%20Poster%202017.pdf) presented at the annual conference for the Western Psychological Association, Sacramento, CA.
+Barchard, K. A., Contreras, A., & **Picker, C. J.** (2017, April). [*Sex differences in emotional awareness: More than just words*](https://img.faculty.unlv.edu/lab/conference-presentations/conference%20posters/POES%20IV%20V%20handout.pdf). [Poster](https://img.faculty.unlv.edu/lab/conference-presentations/conference%20posters/POES%20IV%20V%20Poster%202017.pdf) presented at the annual conference for the Western Psychological Association, Sacramento, CA. (Poster was also presented at American Association of Behavioral and Social Sciences, Las Vegas, NV on January 2017).
 
 **Picker, C. J.**, & Barchard, K. A. (2017, January). *Perceptual category development explains emotion processing abilities*. [Poster]{.underline} presented at the annual conference for the American Association of Behavioral and Social Sciences, Las Vegas, NV.
+
+Barchard, K. A., & **Picker, C. J.** (2016, January). *Women use more precise emotion words*.
+[Poster]{.underline} presented at the American Association of Behavioral and Social Sciences, Las Vegas, NV.
+
+Barchard, K. A., **Picker, C. J.**, Ermini Leaf, D. (2016, April). *Women use a greater number and variety of emotion words*. [Poster]{.underline} presented at the Western Psychological Association convention, Long Beach, CA.
+
+**Picker, C. J.**, & Parks, C. M. (2015, April). *Effect of retroactive interference on recollection and familiarity estimates*. [Poster]{.underline} presented at the Western Psychological Association conference, Las Vegas, NV.
+
+
+
 
 
 
