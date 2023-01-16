@@ -1,11 +1,22 @@
 ---
-title: "CV"
+title: ""
 format: html
+toc: TRUE
+toc-location: left
 editor: visual
 bibliography: references.bib
+
+theme: 
+  light: minty
+  dark: darkly
+link-external-icon: true
+
+linestretch: 1.2
 ---
 
 ## Caleb J. Picker's Curriculum Vitae {#cv .header style="text-align: center"}
+
+Created using Quarto in RStudio
 
 Research interests: curve fitting; mathematical modeling; advanced signal detection theory; recognition memory; emotional intelligence; perception; psychometrics; automated computer scoring; machine learning/AI
 
@@ -23,25 +34,25 @@ Research interests: curve fitting; mathematical modeling; advanced signal detect
 | *Development of perceptual differentiation as a model for development of emotion differentiation*                                                                                              |                                 |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------+
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------:+
-| MA in Cognitive Psychology                                                                                                                                                                                                                          | 2010 to 2015 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
-| *University of Nevada, Las Vegas*                                                                                                                                                                                                                   |              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
-| [Cognitive Psychology](https://www.unlv.edu/psychology/graduateprograms/phd-psychological): recognition memory, recollection and familiarity                                                                                                        |              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
-| Mentored by [Colleen M. Parks](https://scholar.google.com/citations?hl=en&user=sUsagW4AAAAJ&view_op=list_works&sortby=pubdate "Colleen M. Parks Google Scholar Profile"){.google-scholar}                                                           |              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
-| [*Retroactive interference in recognition memory: The effects of mental effort and similarity on recollection and familiarity*](https://digitalscholarship.unlv.edu/thesesdissertations/2495/ "Caleb Picker's Master's Thesis"){#masters .research} |              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------:+
+| MA in Cognitive Psychology                                                                                                                                                                                                                          | 2010 to 2015                |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+| *University of Nevada, Las Vegas*                                                                                                                                                                                                                   |                             |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+| [Cognitive Psychology](https://www.unlv.edu/psychology/graduateprograms/phd-psychological): recognition memory, recollection and familiarity                                                                                                        |                             |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+| Mentored by [Colleen M. Parks](https://scholar.google.com/citations?hl=en&user=sUsagW4AAAAJ&view_op=list_works&sortby=pubdate "Colleen M. Parks Google Scholar Profile"){.google-scholar}                                                           |                             |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+| [*Retroactive interference in recognition memory: The effects of mental effort and similarity on recollection and familiarity*](https://digitalscholarship.unlv.edu/thesesdissertations/2495/ "Caleb Picker's Master's Thesis"){#masters .research} |                             |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
 
-+---------------------------------------------------------+--------------:+
-| BA in Psychology                                        | 2006 to 2010  |
-+---------------------------------------------------------+---------------+
-| *University of Nevada, Las Vegas*                       |               |
-+---------------------------------------------------------+---------------+
-| [Psychology](https://www.unlv.edu/degree/ba-psychology) |               |
-+---------------------------------------------------------+---------------+
++---------------------------------------------------------+---------------------------:+
+| BA in Psychology                                        | 2006 to 2010               |
++---------------------------------------------------------+----------------------------+
+| *University of Nevada, Las Vegas*                       |                            |
++---------------------------------------------------------+----------------------------+
+| [Psychology](https://www.unlv.edu/degree/ba-psychology) |                            |
++---------------------------------------------------------+----------------------------+
 
 ## Programming Skills (Years of Experience)
 
@@ -66,54 +77,54 @@ DT::datatable(prg_skills)
 
 ## Professional Development
 
-+----------------------------------------------------------------------------------------------------------------------------+---------:+
-| [Big Data: Exploratory Data Mining in Behavioral Research](https://www.apa.org/science/about/psa/2017/01/big-data-methods) | 2016     |
-+----------------------------------------------------------------------------------------------------------------------------+----------+
-| *Arizona State University*                                                                                                 |          |
-+----------------------------------------------------------------------------------------------------------------------------+----------+
-| For example: Exploratory modeling of longitudinal data (e.g., SEM decision trees), genetic search algorithms               |          |
-+----------------------------------------------------------------------------------------------------------------------------+----------+
-| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                        |          |
-+----------------------------------------------------------------------------------------------------------------------------+----------+
++----------------------------------------------------------------------------------------------------------------------------+----------------------:+
+| [Big Data: Exploratory Data Mining in Behavioral Research](https://www.apa.org/science/about/psa/2017/01/big-data-methods) | 2016                  |
++----------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| *Arizona State University*                                                                                                 |                       |
++----------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| For example: Exploratory modeling of longitudinal data (e.g., SEM decision trees), genetic search algorithms               |                       |
++----------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                        |                       |
++----------------------------------------------------------------------------------------------------------------------------+-----------------------+
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+--------:+
-| [Structural Equation Modeling in Longitudinal Research](https://quantdev.ssri.psu.edu/resources/apa-ati-structural-equation-modeling-longitudinal-research) | 2014    |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
-| *University of California, Davis*                                                                                                                           |         |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
-| For example: Latent growth curve models, mixed-effects multi-level modling with multivariate extensions                                                     |         |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
-| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                                                         |         |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------:+
+| [Structural Equation Modeling in Longitudinal Research](https://quantdev.ssri.psu.edu/resources/apa-ati-structural-equation-modeling-longitudinal-research) | 2014                |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
+| *University of California, Davis*                                                                                                                           |                     |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
+| For example: Latent growth curve models, mixed-effects multi-level modling with multivariate extensions                                                     |                     |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
+| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                                                         |                     |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+
 
 ## Certifications
 
-+-------------------------------------------------------------------------------------------------------------------------------------+---------:+
-| [Machine Learning (Andrew Ng on Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)                  | 2019     |
-+-------------------------------------------------------------------------------------------------------------------------------------+----------+
-| [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning) | 2019     |
-+-------------------------------------------------------------------------------------------------------------------------------------+----------+
++-------------------------------------------------------------------------------------------------------------------------------------+---------------------:+
+| [Machine Learning (Andrew Ng on Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)                  | 2019                 |
++-------------------------------------------------------------------------------------------------------------------------------------+----------------------+
+| [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning) | 2019                 |
++-------------------------------------------------------------------------------------------------------------------------------------+----------------------+
 
 ## Professional Experience
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------:+
-| [Marketing Analyst](https://www.linkedin.com/jobs/view/177974835/)                                                                                                         | 2019 to 2021 |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
-| [*Caesars Entertainment Corporation*](https://www.caesars.com/)                                                                                                            |              |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
-| -   Collaborated with senior management to use BigQuery and R programming to replace expensive third-party statistical software for intervention evaluations               |              |
-| -   Used Python to automate creation of important marketing charts, while advancing the use of statistical and scientific best practices, such as 95% confidence intervals |              |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------:+
+| [Marketing Analyst](https://www.linkedin.com/jobs/view/177974835/)                                                                                                         | 2019 to 2021               |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+
+| [*Caesars Entertainment Corporation*](https://www.caesars.com/)                                                                                                            |                            |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+
+| -   Collaborated with senior management to use BigQuery and R programming to replace expensive third-party statistical software for intervention evaluations               |                            |
+| -   Used Python to automate creation of important marketing charts, while advancing the use of statistical and scientific best practices, such as 95% confidence intervals |                            |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------:+
-| [Pricing Analyst](https://www.linkedin.com/jobs/view/119334473/)                                                                                                                                              | 2018 to 2019 |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
-| [*American Homes 4 Rent*](https://www.amh.com/)                                                                                                                                                               |              |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
-| -   Advanced use of research methods and experimental design to help create comprehensive framework for evaluating interventions                                                                              |              |
-|                                                                                                                                                                                                               |              |
-| -   Advised senior management and analysts on machine learning in Python, including model testing for *k*-folds cross validation and *k*-means clustering for optimal rental home segmentation for comparison |              |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------:+
+| [Pricing Analyst](https://www.linkedin.com/jobs/view/119334473/)                                                                                                                                              | 2018 to 2019              |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
+| [*American Homes 4 Rent*](https://www.amh.com/)                                                                                                                                                               |                           |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
+| -   Advanced use of research methods and experimental design to help create comprehensive framework for evaluating interventions                                                                              |                           |
+|                                                                                                                                                                                                               |                           |
+| -   Advised senior management and analysts on machine learning in Python, including model testing for *k*-folds cross validation and *k*-means clustering for optimal rental home segmentation for comparison |                           |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
 
 ## Peer-Reviewed Publications
 
@@ -134,11 +145,59 @@ Barchard, K. A., & **Picker, C. J.** (2016, January). *Women use more precise em
 
 Barchard, K. A., **Picker, C. J.**, Ermini Leaf, D. (2016, April). *Women use a greater number and variety of emotion words*. [Poster]{.underline} presented at the Western Psychological Association convention, Long Beach, CA.
 
-**Picker, C. J.**, & Parks, C. M. (2015, April). *Effect of retroactive interference on recollection and familiarity estimates*. [Poster]{.underline} presented at the Western Psychological Association conference, Las Vegas, NV.
+**Picker, C. J.**, & Parks, C. M. (2015, April). *Effect of retroactive interference on recollection and familiarity estimates*. [Poster](https://github.com/calebjpicker/CV/blob/master/Picker%20%26%20Parks%2C%202015%20%20%20WPA.pptx) presented at the Western Psychological Association conference, Las Vegas, NV.
 
+## Posters and Presentations (non-Refereed)
 
+Davis, L., & **Picker, C. J.**, & Parks, C. M. (2014, May). *The spread and control of attention
+of action video game experts in a memory flanker task*. [Poster](https://github.com/calebjpicker/CV/blob/master/Davis%20Picker%20%26%20Parks%202014%20(Final).pptx) presented at 2014 UNLV Psi Chi Poster Conference, Las Vegas, NV.
 
+Lein, E., & **Picker, C. J.**, & Parks, C. M. (2014, May). *Mental effort as retroactive interference: Comparing cued recall and pair recognition performance*. [Poster](https://github.com/calebjpicker/CV/blob/master/Lein%20Picker%20%26%20Parks%202014%20(Final).pdf) presented at 2014 UNLV Psi Chi Poster Conference, Las Vegas, NV.
 
+**Picker, C. J.** (2013, April). *Retroactive interference in recognition memory: The roles of mental effort, consolidation, and similarity*. [Talk](https://github.com/calebjpicker/CV/blob/master/Picker%202013%20UNLV%20Research%20Forum.pptx) presented in partial fulfillment of program requirements for UNLV Psychology department, Las Vegas, NV.
 
+**Picker, C. J.** (2013, March). *Retroactive interference in recognition memory: The roles of mental effort and consolidation*. [Talk](https://github.com/calebjpicker/CV/blob/master/Picker%202013%20UNLV%20Research%20Forum.pptx) presented at the 2013 GPSA Research Forum, Las Vegas, NV.
 
+## Courses Taught
 
++----------------------------------------------+----------------------:+
+| Structural Equation Modeling                 | Spring 2017           |
++----------------------------------------------+-----------------------+
+| *University of Nevada, Las Vegas*            |                       |
++----------------------------------------------+-----------------------+
+| Cognitive Psychology (PSY 316)               | 2014 to 2016          |
++----------------------------------------------+-----------------------+
+| *University of Nevada, Las Vegas*            |                       |
++----------------------------------------------+-----------------------+
+| Introduction to Psychology (PSY 101)         | 2012 to 2013          |
++----------------------------------------------+-----------------------+
+| *University of Nevada, Las Vegas*            |                       |
++----------------------------------------------+-----------------------+
+
+## Service
+
+Mentor for Outreach for Undergraduate Mentoring Program
+
+Vice President of Experimental Student Committee
+
+GPSA Liberal Arts College Representative
+
+Community Outreach: Brain Awareness Presentations
+
+-   Cashman Middle School (Las Vegas, NV) x2
+
+-   Laughlin Middle School (Laughlin, NV)
+
+-   Paradise PDS Elementary School (Las Vegas, NV)
+
+GPSA Psychology Representative Awards Committee
+
+## Professional Memberships
+
+American Statistical Association (ASA)
+
+Association for Psychological Science (APS)
+
+American Psychological Association (APA)
+
+Psi Chi

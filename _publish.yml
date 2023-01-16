@@ -1,0 +1,4 @@
+- source: cvr.qmd
+  quarto-pub:
+    - id: 45d34722-cc6d-4fbb-adc8-eb36b73134ce
+      url: 'https://quartopub.com/sites/calebjpicker/cvr'

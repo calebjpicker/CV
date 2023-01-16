@@ -3,7 +3,7 @@
     "path": "C:/Users/caleb/OneDrive/Caleb/Personal/Financials/Curriculum Vitae/CV-R/CV-R/cvr.qmd",
     "project_path": "cvr.qmd",
     "type": "quarto_markdown",
-    "hash": "972925204",
+    "hash": "1891813547",
     "contents": "",
     "dirty": true,
     "created": 1673826458638.0,
@@ -15,18 +15,18 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "138,0",
+        "cursorPosition": "22,0",
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "5559:3456.800048828125"
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1673836445,
+    "lastKnownWriteTime": 1673872355,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1673837458861,
+    "last_content_update": 1673889346079,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,0 +1,48 @@
+---
+title: ""
+author: "Caleb J. Picker"
+format: html
+toc: TRUE
+toc-location: left
+editor: visual
+bibliography: references.bib
+
+theme: 
+  light: minty
+  dark: darkly
+link-external-icon: true
+
+linestretch: 1.2
+---
+
+```{r}
+#| column: screen-inset-shaded
+#| layout-nrow: 1
+
+"•	Automated creation of ad hoc P&Ls and Daily Operating Revenue KPI charts using Python"
+"•	Introduced standardized statistical methods, such as calculating seasonality indices, z-scores, and 95% confidence intervals"
+"•	Under SMT guidance, used R, Excel, and Tableau to program replacement of expensive third-party statistical software"
+
+
+```
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
