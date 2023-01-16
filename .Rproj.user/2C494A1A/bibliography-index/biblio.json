@@ -1,0 +1,71 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1080/00223891.2017.1282866",
+            "URL": "http://dx.doi.org/10.1080/00223891.2017.1282866",
+            "author": [
+                {
+                    "family": "Barchard",
+                    "given": "Kimberly A."
+                },
+                {
+                    "family": "Picker",
+                    "given": "Caleb J."
+                }
+            ],
+            "container-title": "Journal of Personality Assessment",
+            "id": "barchard2017",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        3,
+                        13
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "107-115",
+            "title": "Computer Scoring of Emotional Awareness in a Nonclinical Population of Young Adults",
+            "type": "article-journal",
+            "volume": "100"
+        },
+        {
+            "DOI": "10.17140/pcsoj-1-104",
+            "URL": "http://dx.doi.org/10.17140/PCSOJ-1-104",
+            "author": [
+                {
+                    "family": "Silver",
+                    "given": "N. Clayton"
+                },
+                {
+                    "family": "Ullman",
+                    "given": "Joanne"
+                },
+                {
+                    "family": "Pick",
+                    "given": "Caleb J."
+                }
+            ],
+            "container-title": "Psychology and Cognitive Sciences - Open Journal",
+            "id": "silver2015",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        8,
+                        4
+                    ]
+                ]
+            },
+            "page": "26-28",
+            "title": "COMPCOR: A computer program for comparing correlations using confidence intervals",
+            "title-short": "COMPCOR",
+            "type": "article-journal",
+            "volume": "1"
+        }
+    ],
+    "project_biblios": []
+}
