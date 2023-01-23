@@ -4,7 +4,8 @@ format: html
 toc: TRUE
 toc-location: left
 editor: visual
-bibliography: references.bib
+website:
+    google-analytics: "G-8NE202TMT4"
 
 theme: 
   light: minty
@@ -22,27 +23,37 @@ Research interests: curve fitting; mathematical modeling; advanced signal detect
 
 ## Education
 
-|                                                                                                                                                                                                |                                 |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------:|
-| **PhD in Quantitative Psychology**                                                                                                                                                             |                    2016 to 2021 |
++:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------:+
+| **PhD in Quantitative Psychology**                                                                                                                                                             | 2016 to 2021                    |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------+
 | *University of Nevada, Las Vegas*                                                                                                                                                              | [**Not Completed**]{.underline} |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------+
 | [Quantitative Psychology](https://www.unlv.edu/psychology/graduateprograms/phd-psychological): psychometrics, emotional intelligence                                                           |                                 |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------+
 | Mentored by [Kimberly A. Barchard](https://scholar.google.com/citations?hl=en&user=Imi7MlEAAAAJ&view_op=list_works&sortby=pubdate "Kimberly A. Barchard Google Scholar"){#kim .google-scholar} |                                 |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------+
 | *Development of perceptual differentiation as a model for development of emotion differentiation*                                                                                              |                                 |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------+
 
-|                                                                                                                                                                                                                                                     |              |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------:|
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------:+
 | MA in Cognitive Psychology                                                                                                                                                                                                                          | 2010 to 2015 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
 | *University of Nevada, Las Vegas*                                                                                                                                                                                                                   |              |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
 | [Cognitive Psychology](https://www.unlv.edu/psychology/graduateprograms/phd-psychological): recognition memory, recollection and familiarity                                                                                                        |              |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
 | Mentored by [Colleen M. Parks](https://scholar.google.com/citations?hl=en&user=sUsagW4AAAAJ&view_op=list_works&sortby=pubdate "Colleen M. Parks Google Scholar Profile"){.google-scholar}                                                           |              |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
 | [*Retroactive interference in recognition memory: The effects of mental effort and similarity on recollection and familiarity*](https://digitalscholarship.unlv.edu/thesesdissertations/2495/ "Caleb Picker's Master's Thesis"){#masters .research} |              |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------+
 
-|                                                         |              |
-|---------------------------------------------------------|-------------:|
-| BA in Psychology                                        | 2006 to 2010 |
-| *University of Nevada, Las Vegas*                       |              |
-| [Psychology](https://www.unlv.edu/degree/ba-psychology) |              |
++---------------------------------------------------------+--------------:+
+| BA in Psychology                                        | 2006 to 2010  |
++---------------------------------------------------------+---------------+
+| *University of Nevada, Las Vegas*                       |               |
++---------------------------------------------------------+---------------+
+| [Psychology](https://www.unlv.edu/degree/ba-psychology) |               |
++---------------------------------------------------------+---------------+
 
 ## Programming Skills (Years of Experience)
 
@@ -67,26 +78,33 @@ DT::datatable(prg_skills)
 
 ## Professional Development
 
-|                                                                                                                            |      |
-|----------------------------------------------------------------------------------------------------------------------------|-----:|
-| [Big Data: Exploratory Data Mining in Behavioral Research](https://www.apa.org/science/about/psa/2017/01/big-data-methods) | 2016 |
-| *Arizona State University*                                                                                                 |      |
-| For example: Exploratory modeling of longitudinal data (e.g., SEM decision trees), genetic search algorithms               |      |
-| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                        |      |
++----------------------------------------------------------------------------------------------------------------------------+---------:+
+| [Big Data: Exploratory Data Mining in Behavioral Research](https://www.apa.org/science/about/psa/2017/01/big-data-methods) | 2016     |
++----------------------------------------------------------------------------------------------------------------------------+----------+
+| *Arizona State University*                                                                                                 |          |
++----------------------------------------------------------------------------------------------------------------------------+----------+
+| For example: Exploratory modeling of longitudinal data (e.g., SEM decision trees), genetic search algorithms               |          |
++----------------------------------------------------------------------------------------------------------------------------+----------+
+| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                        |          |
++----------------------------------------------------------------------------------------------------------------------------+----------+
 
-|                                                                                                                                                             |      |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----:|
-| [Structural Equation Modeling in Longitudinal Research](https://quantdev.ssri.psu.edu/resources/apa-ati-structural-equation-modeling-longitudinal-research) | 2014 |
-| *University of California, Davis*                                                                                                                           |      |
-| For example: Latent growth curve models, mixed-effects multi-level modling with multivariate extensions                                                     |      |
-| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                                                         |      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+---------:+
+| [Structural Equation Modeling in Longitudinal Research](https://quantdev.ssri.psu.edu/resources/apa-ati-structural-equation-modeling-longitudinal-research) | 2014     |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| *University of California, Davis*                                                                                                                           |          |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| For example: Latent growth curve models, mixed-effects multi-level modling with multivariate extensions                                                     |          |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| Programming languages used: [R](https://www.r-project.org/) and [Mplus](https://www.statmodel.com/)                                                         |          |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 
 ## Certifications
 
-|                                                                                                                                     |      |
-|-------------------------------------------------------------------------------------------------------------------------------------|-----:|
-| [Machine Learning (Andrew Ng on Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)                  | 2019 |
-| [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning) | 2019 |
++-------------------------------------------------------------------------------------------------------------------------------------+---------:+
+| [Machine Learning (Andrew Ng on Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)                  | 2019     |
++-------------------------------------------------------------------------------------------------------------------------------------+----------+
+| [Mathematics for Machine Learning Specialization (Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning) | 2019     |
++-------------------------------------------------------------------------------------------------------------------------------------+----------+
 
 ## Professional Experience
 

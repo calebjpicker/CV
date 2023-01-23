@@ -26,6 +26,13 @@ linestretch: 1.2
 
 ```
 
+```{r}
+library(ggplot2)
+y<-runif(50,2,8)
+plot(y,exp(y),main="My Projected Career Trajectory")
+
+```
+
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
